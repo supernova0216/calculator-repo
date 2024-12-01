@@ -1,2 +1,3 @@
 # calculator-repo
-For a CMPE102 project
+For a CMPE102project
+
