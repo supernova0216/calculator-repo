@@ -1,5 +1,3 @@
 # calculator-repo
-For a CMPE102project
+For a CMPE102 project
 
-## subheader
-watch tutorial
